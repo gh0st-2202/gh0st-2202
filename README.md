@@ -134,7 +134,7 @@ Access_Level: "🔓 PUBLIC"
 ![Followers](https://img.shields.io/github/followers/gh0st-2202?color=00ff00&style=flat-square)
 ![Stars](https://img.shields.io/github/stars/gh0st-2202?color=00ff00&style=flat-square)
 
-**"En el código confiamos"** ✨
+**"En el código confiamos. Si lo entiendes, no funciona"** ✨
 
 </div>
 
