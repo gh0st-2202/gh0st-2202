@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 style="color: red"> gh0st-2202 </h1>
+<h1> gh0st-2202 </h1>
 <!--
 **gh0st-2202/gh0st-2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
