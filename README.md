@@ -1,4 +1,4 @@
-# <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="100px">
+# <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="50px"> gh0st-2202
 
 <!--
 **gh0st-2202/gh0st-2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
