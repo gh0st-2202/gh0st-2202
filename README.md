@@ -1,4 +1,4 @@
-# <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.flaticon.es%2Ficono-gratis%2Fjava_5968282&ved=0CBYQjRxqFwoTCMik49SkiZIDFQAAAAAdAAAAABAH&opi=89978449">
+# <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
 
 <!--
 **gh0st-2202/gh0st-2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
