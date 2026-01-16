@@ -7,7 +7,7 @@ public class SobreMi {
     private String nombre = "gh0st-2202";
     private String rol = "Estudiante de 1º DAM";
     private String ubicacion = "Córdoba, España";
-    private String estado = "Aprendiendo Java Full-Stack";
+    private String estado = "Aprendiendo Java";
     
     // Intereses y pasiones
     private String[] intereses = {
