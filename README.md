@@ -1,6 +1,4 @@
 # <img src="assets/JAVA+gh0st-2202.png" width="300px">
 
-java ```
-public class SobreMi {}
+``` public class SobreMi {}
 ```
-
