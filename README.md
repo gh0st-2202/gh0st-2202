@@ -10,11 +10,11 @@ public class SobreMi {
     private String estado = "Aprendiendo Java Full-Stack";
     
     // Intereses y pasiones
-    private List<String> intereses = Arrays.asList(
+    private String[] intereses = {
         "Programación Orientada a Objetos",
         "Desarrollo Backend con Java",
         "Bases de Datos",
         "Ciberseguridad básica"
-    );
+    };
 }
 ```
