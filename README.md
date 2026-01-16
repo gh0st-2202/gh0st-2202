@@ -1,1 +1,1 @@
-# <img src="JAVA+gh0st-2202REDUCED.png" width="300px">
+# <img src="assets/JAVA+gh0st-2202.png" width="300px">
