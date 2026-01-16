@@ -1,6 +1,7 @@
 # <img src="assets/JAVA+gh0st-2202.png" width="300px">
 
-## ```java 
+
+```java 
 public class SobreMi {
 
     // Atributos principales
@@ -18,3 +19,4 @@ public class SobreMi {
     };
 }
 ```
+##
