@@ -1,6 +1,6 @@
 # <img src="assets/JAVA+gh0st-2202.png" width="300px">
 
-## SobreMi.java:
+SobreMi.java:
 ```java 
 public class SobreMi {
 
