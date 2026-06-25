@@ -1,7 +1,7 @@
-# <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/JAVA+gh0st-2202_DARK.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/JAVA+gh0st-2202_LIGHT.png">
-  <img alt="gh0st-2202" src="JAVA+gh0st-2202_DARK.png" width="300px">
+  # <img alt="gh0st-2202" src="JAVA+gh0st-2202_DARK.png" width="300px">
 </picture>
 
 ```java 
