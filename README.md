@@ -1,7 +1,7 @@
 # <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/JAVA+gh0st-2202.png" width="300px">
   <source media="(prefers-color-scheme: light)" srcset="assets/JAVA+gh0st-2202-LIGHT.jpg" width="300px">
-  <img alt="Diagrama de variables" src="assets/JAVA+gh0st-2202.png">
+  <img alt="gh0st-2202" src="assets/JAVA+gh0st-2202-LIGHT.jpg" width="300px">
 </picture>
 
 ```java 
