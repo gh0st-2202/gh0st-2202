@@ -13,7 +13,7 @@ public class SobreMi{
   private String[] pasiones = {
     "Matemáticas",
     "Backend",
-    "Optimización,
+    "Optimización",
     "C"
   };
 
