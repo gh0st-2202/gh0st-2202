@@ -23,3 +23,9 @@ public class SobreMi {
     };
 }
 ```
+<hr>
+
+<p align="center">
+  <strong><em>"Si las reglas no me gustan, las cambio. Pero primero tengo que entenderlas."</em></strong> <br>
+  gh0st-2202
+</p>
