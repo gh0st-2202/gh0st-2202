@@ -5,27 +5,24 @@
 </picture>
 
 ---
+```java
+public class SobreMi{
 
-```java 
-public class SobreMi {
+  private int edad = 19;
+  private String estado = "Cursando DAM";
+  private String[] pasiones = {
+    "Matemáticas",
+    "Backend",
+    "Optimización,
+    "C"
+  };
 
-    // Atributos principales
-    private String nombre = "gh0st-2202";
-    private String rol = "Estudiante de 1º DAM";
-    private String estado = "Aprendiendo Java";
-    
-    // Intereses y pasiones
-    private String[] intereses = {
-        "Programación Orientada a Objetos",
-        "Desarrollo Backend con Java",
-        "Bases de Datos",
-        "Ciberseguridad básica"
-    };
 }
 ```
-<hr>
+---
+
+$$\forall x ( R(x) \rightarrow ( E(x) \rightarrow C(x) ) )$$
 
 <p align="center">
   <strong><em>"Si las reglas no me gustan, las cambio. Pero primero tengo que entenderlas."</em></strong> <br>
-  gh0st-2202
 </p>
