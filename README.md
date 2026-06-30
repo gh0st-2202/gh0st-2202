@@ -6,7 +6,10 @@
 
 ---
 ```c
-Persona crear_nuevo_yo(void) {
+#include "persona.h"
+#include <stdio.h>
+
+Persona crear_un_yo(void) {
     return (Persona){
         .edad = 19,
         .estado = "Cursando DAM",
