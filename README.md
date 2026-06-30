@@ -5,18 +5,17 @@
 </picture>
 
 ---
-```java
-public class SobreMi{
-
-  private int edad = 19;
-  private String estado = "Cursando DAM";
-  private String[] pasiones = {
-    "Matemáticas",
-    "Backend",
-    "Optimización",
-    "C"
-  };
-
+```c
+Persona crear_nuevo_yo(void) {
+    return (Persona){
+        .edad = 19,
+        .estado = "Cursando DAM",
+        .pasiones = {
+          "Matemáticas", 
+          "Backend", 
+          "Optimización"
+        }
+    };
 }
 ```
 ---
