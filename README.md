@@ -20,7 +20,7 @@ Persona crear_nuevo_yo(void) {
 ```
 ---
 
-$$\forall x \in R \, (E(x) \rightarrow C(x))$$
+$$\forall x \in R (E(x) \rightarrow C(x))$$
 
 <p align="center">
   <strong><em>"Si las reglas no me gustan, las cambio. Pero primero tengo que entenderlas."</em></strong> <br>
