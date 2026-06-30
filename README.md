@@ -23,7 +23,7 @@ Persona crear_un_yo(void) {
 ```
 ---
 
-$$\forall x \in R \ (E(x) \rightarrow C(x))$$
+$$\forall x \in R \ ( \neg G(x) \rightarrow ( E(x) \rightarrow C(x)))$$ 
 
 <p align="center">
   <strong><em>"Si las reglas no me gustan, las cambio. Pero primero tengo que entenderlas."</em></strong> <br>
